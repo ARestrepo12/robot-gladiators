@@ -223,8 +223,6 @@ var enemyInfo = [
         attack: randomNumber(10,14)
     }
 ];
-
-
   // restart the game
 
   startGame();
